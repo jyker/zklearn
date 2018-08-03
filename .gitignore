@@ -1,0 +1,16 @@
+# vscode 
+.vscode/* 
+
+# python 
+__pycache__/
+
+# build
+build/*
+src/python/*.legg-info
+
+# dist
+dist/*
+
+# cache
+.cache/*
+.pytest_cache/*
